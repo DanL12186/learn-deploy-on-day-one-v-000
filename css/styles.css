@@ -197,7 +197,7 @@ a:visited {
 #tom-su-cover {
   background-image: url("http://datas.series-tv-shows.com/pic/tvdb/2448/fanart.jpg");
 }
- 
+
 #tom-su-card {
    background-image: url("http://imgur.com/ftlyRw2.png");
 }
@@ -216,6 +216,14 @@ a:visited {
 
 #hana-leander-card {
   background-image: url("http://i.imgur.com/Py1mOcS.jpg");
+}
+
+#daniel-lempesis-cover {
+  background-image: url("http://imgur.com/tJ90gr9.jpg");
+}
+
+#daniel-lempesis-card {
+  background-image: url("http://i.imgur.com/Hg4zirx.jpg");
 }
 
 #daniel-warren-cover {
@@ -4626,7 +4634,7 @@ a:visited {
 #rachel-lim-cover {
     background-image: url("http://i.imgur.com/yb6Dn4Y.jpg");
   }
- 
+
 #rachel-lim-card {
     background-image: url("http://i.imgur.com/lFqgSu2.jpg?1");
   }
